@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Info:
 
-### Built withe React
+-   Built withe React
 
-### Uses the [Openweathermap.org](https://openweathermap.org) API for weather data.
+-   Uses the [Openweathermap.org](https://openweathermap.org) API for weather data.
 
-### Utilizes CSS modules
+-   Utilizes CSS modules
 
 ## To run `npm start`
 
