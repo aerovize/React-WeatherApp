@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Viga&family=Work+Sans:wght@300;400;700&display=swap");
+
+.container {
+    font-family: "Work Sans", sans-serif;
+    color: #ececec;
+    padding: 2rem;
+}
+
+.city {
+    font-size: 3rem;
+}
+
+.temp {
+    font-size: 5rem;
+}

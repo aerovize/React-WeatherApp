@@ -1,0 +1,37 @@
+.form {
+    padding-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input {
+    outline: none;
+    padding: 0.3rem;
+    background-color: #3f0071;
+    font-size: 1.5rem;
+    border-radius: 6px;
+    border: none;
+    max-width: 60%;
+}
+
+.input::placeholder {
+    color: black;
+}
+
+.input:focus {
+    background-color: whitesmoke;
+}
+
+.button {
+    outline: none;
+    padding: 0.3rem;
+    background-color: #3f0071;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 3px;
+}
+
+.button:hover {
+    background-color: whitesmoke;
+}
