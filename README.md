@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Info:
 
--   Built withe React
+-   Built with React
 
 -   Uses the [Openweathermap.org](https://openweathermap.org) API for weather data.
 
